@@ -1,0 +1,29 @@
+{
+  "name": "node-js-sample",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nekrofage/nodejs-example.git"
+  },
+  "keywords": [
+    "node",
+    "gandi",
+    "express"
+  ],
+  "author": "Samuel Gondouin",
+  "contributors": [
+    "Le Sanglier des Ardennes <lesanglierdesardennes@gmail.com> (http://rockstarninja.info)"
+  ],
+  "license": "MIT"
+}
